@@ -1,4 +1,4 @@
-#Aion Specifications
+# Aion Specifications
 
 ### General Principles
 
